@@ -6,9 +6,9 @@
 
 <a href="https://juliadooby.github.io/Skywings-travel/"><strong>➥Demo</strong></a>
 
-<div align="center"><img src="https://github.com/juliaDooby/Adex-Creative-agency/blob/main/Adex_1.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/Adex-Creative-agency/blob/main/Adex_2.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/Adex-Creative-agency/blob/main/Adex_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Skywings-travel/blob/main/Skywings_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Skywings-travel/blob/main/Skywings_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Skywings-travel/blob/main/Skywings_3.JPG" width="100%" height="20%"></img></div>
 
 ---
 
